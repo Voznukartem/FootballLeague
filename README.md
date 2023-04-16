@@ -1,4 +1,3 @@
-# FootballLeague
 
 <h2 align="center">Tasks</h2>
 <li>Create CRUD operations about auto - 4ч</li>
