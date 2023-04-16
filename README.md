@@ -1,7 +1,5 @@
 # FootballLeague
 
-<h5>Лабораторная работа 5 используя GitHub</h5>
-
 <h1 align="center">Sprint 1</h1>
 <p>This sprint aimed at engineers. In this sprint engineers'll working with code and coding features to our software</p>
 <h2 align="center">Tasks</h2>
