@@ -1,7 +1,5 @@
 # FootballLeague
 
-<h1 align="center">Sprint 1</h1>
-<p>This sprint aimed at engineers. In this sprint engineers'll working with code and coding features to our software</p>
 <h2 align="center">Tasks</h2>
 <li>Create CRUD operations about auto - 4ч</li>
 <ul>Create read operation of auto - 1ч</ul>
